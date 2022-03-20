@@ -1,2 +1,2 @@
 # Titanic_Survival_Prediction
-Exploratory data analysis and survival prediction performed on popular titanic dataset. 
+Performed exploratory data analysis on titanic dataset and also implemented machine learning classification algorithms tp predict the survival of the passengers. 
